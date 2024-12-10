@@ -1,0 +1,15 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: #282c34;
+  color: white;
+}
+
+.footer button {
+  background-color: #61dafb;
+  border: none;
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}

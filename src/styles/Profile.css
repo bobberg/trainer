@@ -1,0 +1,10 @@
+.profile {
+  padding: 1rem;
+  background-color: #f5f5f5;
+}
+
+.badges,
+.progression,
+.statistics {
+  margin-top: 1rem;
+}
